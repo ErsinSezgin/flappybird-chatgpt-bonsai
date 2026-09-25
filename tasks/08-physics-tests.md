@@ -1,6 +1,6 @@
 # Task 08: Add physics tests
 
-Status: ⏳ **NOT STARTED**
+Status: ✅ **DONE**
 
 ## Goal
 Test all pure physics functions deterministically without a browser.
